@@ -1,0 +1,137 @@
+Customer: A | Address: Eastern, Saudi Arabia | Payment: PayPal
+The 5 Types of Wealth | SAR 78.85 | Quantity: 2
+A Man Called Ove | SAR 55 | Quantity: 1
+Room | SAR 107 | Quantity: 1
+----------------------------
+Customer: A | Address: Dammam, Saudi Arabia | Payment: PayPal
+A Man Called Ove | SAR 55 | Quantity: 3
+----------------------------
+Customer: A | Address: Eastern, Saudi Arabia | Payment: Credit Card
+It Ends with Us | SAR 42.55 | Quantity: 1
+----------------------------
+Customer: A | Address: Jeddah, Saudi Arabia | Payment: PayPal
+Room | SAR 107 | Quantity: 2
+The Kite Runner | SAR 61 | Quantity: 1
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 42.55 | Quantity: 1
+----------------------------
+Customer: lamees s | Address: num | Payment: PayPal
+ | SAR 55.00 | Quantity: 10
+----------------------------
+Customer: lamees s | Address: num | Payment: Cash on Delivery
+ | SAR 78.85 | Quantity: 3
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 98.36 | Quantity: 1
+ | SAR 86.36 | Quantity: 2
+----------------------------
+Customer: lll | Address: num | Payment: Credit Card
+ | SAR 78.85 | Quantity: 5
+----------------------------
+Customer: mese | Address: dammam | Payment: Credit Card
+ | SAR 55.00 | Quantity: 4
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 78.85 | Quantity: 5
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 61.00 | Quantity: 9
+----------------------------
+Customer: lamees | Address: num | Payment: Credit Card
+ | SAR 107.00 | Quantity: 4
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 107.00 | Quantity: 8
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+ | SAR 107.00 | Quantity: 7
+----------------------------
+Customer: lamees | Address: dammam | Payment: Cash on Delivery
+ | SAR 55.00 | Quantity: 8
+----------------------------
+Customer: lamees s | Address: num | Payment: PayPal
+ | SAR 55.00 | Quantity: 3
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 3
+----------------------------
+Customer: lamees s | Address: num | Payment: PayPal
+The Kite Runner | SAR 61.00 | Quantity: 8
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 2
+----------------------------
+Customer: reema | Address: hs | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: nhnn | Address: kj | Payment: Credit Card
+The Kite Runner | SAR 61.00 | Quantity: 1
+----------------------------
+Customer: lkm | Address: ;lk | Payment: Credit Card
+The Kite Runner | SAR 61.00 | Quantity: 1
+----------------------------
+Customer: .,l | Address: ;. | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: , | Address: l | Payment: Credit Card
+The Kite Runner | SAR 61.00 | Quantity: 1
+It Ends with Us | SAR 42.55 | Quantity: 1
+----------------------------
+Customer: , | Address: . | Payment: Credit Card
+Careless People | SAR 86.36 | Quantity: 1
+----------------------------
+Customer: m | Address: m | Payment: Credit Card
+The 5 Types of Wealth | SAR 78.85 | Quantity: 1
+----------------------------
+Customer: , | Address: , | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: , | Address: , | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: , | Address: , | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: ss | Address: s | Payment: Credit Card
+The 5 Types of Wealth | SAR 78.85 | Quantity: 1
+----------------------------
+Customer: s | Address: Dammam, Eastern, Saudi Arabia | Payment: Cash on Delivery
+Room | SAR 107.00 | Quantity: 2
+----------------------------
+Customer: a | Address: Dammam, Eastern, Saudi Arabia | Payment: PayPal
+The Kite Runner | SAR 61.00 | Quantity: 1
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+A Man Called Ove | SAR 55.00 | Quantity: 1
+----------------------------
+Customer: lamees s | Address: num | Payment: PayPal
+Nineteen Eighty-Four | SAR 43.31 | Quantity: 2
+It Ends with Us | SAR 42.55 | Quantity: 1
+----------------------------
+Customer: lamees s | Address: num | Payment: Credit Card
+The Kite Runner | SAR 62.00 | Quantity: 1
+It Ends with Us | SAR 42.55 | Quantity: 1
+The Silent Patient	 | SAR 98.36 | Quantity: 1
+----------------------------
+Customer: F | Address: Eastern, Saudi Arabia | Payment: PayPal
+The Silent Patient	 | SAR 98.36 | Quantity: 1
+----------------------------
+Customer: a | Address: Dammam, Eastern, Saudi Arabia | Payment: PayPal
+The 5 Types of Wealth | SAR 78.85 | Quantity: 2
+----------------------------
+Customer: a | Address: Eastern, Saudi Arabia | Payment: PayPal
+It Ends with Us | SAR 42.59 | Quantity: 1
+----------------------------
+Customer: F | Address: Eastern, Saudi Arabia | Phone: 0556150535 | Email: ahadfaizm@gmail.com | Payment: Credit Card
+Careless People | SAR 86.35 | Quantity: 1
+----------------------------
+Customer: F | Address: Dammam, Eastern, Saudi Arabia | Phone: 0556150535 | Email: ahadfaizm@gmail.com | Payment: Credit Card
+Careless People | SAR 86.35 | Quantity: 1
+----------------------------
+Customer: F | Address: Dammam, Eastern, Saudi Arabia | Phone: 0556150535 | Email: ahadfaizm@gmail.com | Payment: Credit Card
+Room | SAR 107.50 | Quantity: 1
+----------------------------
+Customer: F | Address: Dammam, Eastern, Saudi Arabia | Phone: 0556150535 | Email: ahadfaizm@gmail.com | Payment: Credit Card
+Nineteen Eighty-Four | SAR 43.31 | Quantity: 1
+----------------------------

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://use.fontawesome.com/be1ba39dfe.js"></script>
+    <link rel="stylesheet" href="css/style.css">  
+    <link rel="stylesheet" href="css/login.css">  
+    <title>Create Account</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <section class="flex">
+            <input type="checkbox" name="" id="toggler">
+            <label for="toggler" class="fas fa-bars"></label>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+                <a href="index.php" class="btn back-btn">
+                    <i class="fas fa-arrow-left"></i>
+                </a>
+                <a href="index.php" class="logo">Bookish<span>.</span></a>
+            </div>
+            <nav class="navbar">
+                <a href="index.php">Home</a>
+                <a href="About.html">About</a>
+                <a href="products.php">Products</a>
+                <a href="contact.html">Contact Us</a>
+            </nav>    
+        </section>
+    </header>
+
+    <div class="login-page">
+        <div class="form">
+            <div class="login">
+                <div class="login-header">
+                    <h3>REGISTER</h3>
+                    <p>Please enter your credentials to register.</p>
+                </div>
+            </div>
+
+            <form class="login-form" action="register.php" method="POST"> 
+                <input type="text" name="username" placeholder="Username" required/>
+                <input type="password" name="password" placeholder="Password" required/>
+                <input type="password" name="confirm_password" placeholder="Re-enter your password" required/>
+                
+                <label>
+                    <input type="radio" name="gender" value="female"> Female
+                </label>
+                <label>
+                    <input type="radio" name="gender" value="male"> Male
+                </label>
+                
+                <button type="submit">Register</button>
+                <p class="message">Already registered? <a href="login.php">Login</a></p>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
